@@ -1,0 +1,9 @@
+{
+  "name": "简历助手",
+  "slug": "resume-assistant",
+  "version": "1.0.0",
+  "installedAt": 1779636388305,
+  "source": "marketplace",
+  "iconSource": "resume-assistant",
+  "preinstalledTemplate": true
+}
